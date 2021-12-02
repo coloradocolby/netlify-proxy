@@ -1,5 +1,5 @@
 [[redirects]]
-  from = "/colby/*"
-  to = "https://colby.sh/:splat"
+  from = "/colby"
+  to = "https://colby.sh"
   status = 200
   force = true
