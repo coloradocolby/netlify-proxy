@@ -1,5 +1,10 @@
 [[redirects]]
-  from = "/colby"
-  to = "https://coloradocolby.netlify.app"
+  from = "/why"
+  to = "/about"
+  status = 200
+  force = true
+
+  from = "/*"
+  to = "https://coloradocolby.netlify.app/:splat"
   status = 200
   force = true
