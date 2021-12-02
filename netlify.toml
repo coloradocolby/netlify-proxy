@@ -1,5 +1,5 @@
 [[redirects]]
   from = "/colby"
-  to = "https://colby.sh"
+  to = "https://coloradocolby.netlify.app"
   status = 200
   force = true
