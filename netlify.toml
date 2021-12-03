@@ -4,6 +4,7 @@
   status = 200
   force = true
 
+[[redirects]]
   from = "/*"
   to = "https://coloradocolby.netlify.app/:splat"
   status = 200
