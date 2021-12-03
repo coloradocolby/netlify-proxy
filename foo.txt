@@ -1,8 +1,8 @@
-[[redirects]]
-  from = "/why"
-  to = "/about"
-  status = 200
-  force = true
+# [[redirects]]
+#   from = "/why"
+#   to = "/about"
+#   status = 200
+#   force = true
 
 # [[redirects]]
 #   from = "/colby/*"
