@@ -77,3 +77,14 @@ function Dashboard() {
     </div>
   );
 }
+// # [[redirects]]
+// #   from = "/why"
+// #   to = "/about"
+// #   status = 200
+// #   force = true
+
+// # [[redirects]]
+// #   from = "/colby/*"
+// #   to = "https://coloradocolby.netlify.app/:splat"
+// #   status = 200
+// #   force = true
